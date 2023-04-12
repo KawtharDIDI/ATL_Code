@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 public class Board extends JPanel {
 	private static final long serialVersionUID = 6195235521361212179L;
 	
-	private final int NUM_IMAGES = 13;
+	private final int NUM_IMAGES = 14;
     private final int CELL_SIZE = 15;
 
     private final int COVER_FOR_CELL = 10;
